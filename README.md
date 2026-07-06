@@ -3,8 +3,11 @@ PHD materials
 
 nptel courses:
 discrete mathematics: https://onlinecourses.nptel.ac.in/e-learning/preview/noc26_cs137
+
 Data structures IIT delhi: https://nptel.ac.in/courses/106102064
+
 Data structures IIT kanpur: https://onlinecourses.nptel.ac.in/e-learning/preview/noc26_cs146
+
 
 Operating Systems
 1) https://os-book.com/OS8/os8j/index.html
