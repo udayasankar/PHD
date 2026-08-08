@@ -19,3 +19,6 @@ Operating Systems
 
 Prallel Computing, GPU, CUDA
 https://www.youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp
+
+world models:
+https://docs.aws.amazon.com/AmazonS3/latest/userguide/s3-table-buckets-maintenance.html#s3-table-bucket-maintenance-unreferenced
